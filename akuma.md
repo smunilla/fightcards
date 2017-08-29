@@ -7,7 +7,6 @@
 | Zugai Hasatsu                     | 6P<sub>M</sub>                                                | XAV           |
 | Senpuu Kyaku                      | 6K<sub>M</sub>                                                | XAV           |
 | Gou Hadouken                      | 236P                                                          | XAV           |
-| Hadou no Kamae                    | 236S (Shin Akuma only)                                        | XAV           |
 | Zankuu Hadouken                   | j.236P                                                        | XAV           |
 | Shakunetsu Hadouken               | 63214P                                                        | XAV           |
 | Gou Shoryuken                     | 623P                                                          | XAV           |
@@ -25,3 +24,4 @@
 | **Messatsu Gou Shouryuu**         | 23623P                                                        |  A            |
 | **Tenma Gou Zankuu**              | j.236236P                                                     |  A            |
 | **Shun Goku Satsu**               | max meter, P<sub>L</sub>(x2)6K<sub>L</sub>P<sub>H</sub>       | XA            |
+| *Hadou no Kamae*                  | 236S (Shin Akuma only)                                        | XAV           |

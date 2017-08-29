@@ -14,4 +14,4 @@
 | **Shinkuu Tatsumaki Senpuukyaku** | 214214K              |  A            |
 | **Metsu Shouryuuken**             | max meter, c.23623K  |  A            |
 | **Shin Shouryuuken**              | max meter, f.23623K  |  A            |
-| *Hadou no Kamae*                  | 236 Start            |  AV           |
+| *Hadou no Kamae*                  | 236S                 |  AV           |
