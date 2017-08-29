@@ -11,5 +11,5 @@
 | Jaguar Tooth                      | 63214K                                             | XAV           |
 | **Jaguar Revolver**               | 236236K                                            |  A            |
 | **Jaguar Varied Assault**         | 23623P                                             | XA            |
-| Jaguar Thousand                   | lvl3 meter, 5P or during Jaguar Varied Assault, 5P | XA            |
-| Jaguar Assassin                   | lvl3 meter, 5K or during Jaguar Variad Assault, 5P | XA            |
+| Jaguar Thousand                   | level 3 meter, 5P or Jaguar Varied Assault -> 5P   | XA            |
+| Jaguar Assassin                   | level 3 meter, 5K or Jaguar Varied Assault -> 5P   | XA            |
