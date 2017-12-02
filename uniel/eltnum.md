@@ -16,4 +16,5 @@
 | Etherite Ground | 214A/B/C   | Knockdown            |
 | Cutting Sync    | 421A/B/C   | A - crossover feint  |
 |                 |            | B/C - Launch         |
+| Slide Air       | j.214A/B/C | Air throw            |
 | Barrel Replica  | 41236D     | Wallbounce           |
